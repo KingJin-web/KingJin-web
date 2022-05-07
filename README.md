@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### GitHub 统计
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KingJin-web&show_icons=true&include_all_commits=true&theme=default&count_private=true" alt="stilleshan's github stats" /></a>
